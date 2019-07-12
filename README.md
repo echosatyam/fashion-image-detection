@@ -1,2 +1,2 @@
-# real-fashion-image-detection
+# fashion-image-detection
 Can detect a fashion image type.
